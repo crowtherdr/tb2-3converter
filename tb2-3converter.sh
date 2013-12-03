@@ -1,4 +1,5 @@
 #! /bin/bash
+#Modified MIT license. See license.md
 
 scriptAction=$1
 fileStream=$2
